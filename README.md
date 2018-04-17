@@ -27,7 +27,7 @@
 
 ### Como entregar o código
 
-*   Faça um Fork deste repositório
+*   Faça um Fork deste repositório (https://github.com/hugoramos/trilogo-dev-jr)
 *   Crie uma branch
 *   Faça commits a medida em que for trabalhando 
 *   Quando finalizar, envie o endereço do seu repositório para rh@trilogo.com.br
