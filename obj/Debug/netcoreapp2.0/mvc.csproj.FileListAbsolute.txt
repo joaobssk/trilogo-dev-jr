@@ -1,0 +1,10 @@
+/Users/hugosoares/Sites/trilogo-desafio/mvc/bin/Debug/netcoreapp2.0/mvc.deps.json
+/Users/hugosoares/Sites/trilogo-desafio/mvc/bin/Debug/netcoreapp2.0/mvc.runtimeconfig.json
+/Users/hugosoares/Sites/trilogo-desafio/mvc/bin/Debug/netcoreapp2.0/mvc.runtimeconfig.dev.json
+/Users/hugosoares/Sites/trilogo-desafio/mvc/bin/Debug/netcoreapp2.0/mvc.dll
+/Users/hugosoares/Sites/trilogo-desafio/mvc/bin/Debug/netcoreapp2.0/mvc.pdb
+/Users/hugosoares/Sites/trilogo-desafio/mvc/obj/Debug/netcoreapp2.0/mvc.csproj.CoreCompileInputs.cache
+/Users/hugosoares/Sites/trilogo-desafio/mvc/obj/Debug/netcoreapp2.0/mvc.AssemblyInfoInputs.cache
+/Users/hugosoares/Sites/trilogo-desafio/mvc/obj/Debug/netcoreapp2.0/mvc.AssemblyInfo.cs
+/Users/hugosoares/Sites/trilogo-desafio/mvc/obj/Debug/netcoreapp2.0/mvc.dll
+/Users/hugosoares/Sites/trilogo-desafio/mvc/obj/Debug/netcoreapp2.0/mvc.pdb
