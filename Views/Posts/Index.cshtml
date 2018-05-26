@@ -4,3 +4,21 @@
 <h2>@ViewData["Title"]</h2>
 
 <i>Aqui começa seu código...</i>
+<table >
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var post in ViewBag.Posts)
+    {
+        <tr>
+            <td>@post.Id</td>
+            <td>@post.Title</td>
+        </tr>
+    }
+    </tbody>
+
+</table>

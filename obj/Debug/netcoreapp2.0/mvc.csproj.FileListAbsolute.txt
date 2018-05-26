@@ -8,3 +8,14 @@
 /Users/hugosoares/Sites/trilogo-desafio/mvc/obj/Debug/netcoreapp2.0/mvc.AssemblyInfo.cs
 /Users/hugosoares/Sites/trilogo-desafio/mvc/obj/Debug/netcoreapp2.0/mvc.dll
 /Users/hugosoares/Sites/trilogo-desafio/mvc/obj/Debug/netcoreapp2.0/mvc.pdb
+D:\Repositorio\trilogo-dev-jr\bin\Debug\netcoreapp2.0\mvc.deps.json
+D:\Repositorio\trilogo-dev-jr\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.json
+D:\Repositorio\trilogo-dev-jr\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.dev.json
+D:\Repositorio\trilogo-dev-jr\bin\Debug\netcoreapp2.0\mvc.dll
+D:\Repositorio\trilogo-dev-jr\bin\Debug\netcoreapp2.0\mvc.pdb
+D:\Repositorio\trilogo-dev-jr\obj\Debug\netcoreapp2.0\mvc.csprojResolveAssemblyReference.cache
+D:\Repositorio\trilogo-dev-jr\obj\Debug\netcoreapp2.0\mvc.csproj.CoreCompileInputs.cache
+D:\Repositorio\trilogo-dev-jr\obj\Debug\netcoreapp2.0\mvc.AssemblyInfoInputs.cache
+D:\Repositorio\trilogo-dev-jr\obj\Debug\netcoreapp2.0\mvc.AssemblyInfo.cs
+D:\Repositorio\trilogo-dev-jr\obj\Debug\netcoreapp2.0\mvc.dll
+D:\Repositorio\trilogo-dev-jr\obj\Debug\netcoreapp2.0\mvc.pdb

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using mvc.Utils;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -37,7 +38,7 @@ namespace mvc
             }
 
             app.UseStaticFiles();
-
+            PostRepository.GetAll();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
