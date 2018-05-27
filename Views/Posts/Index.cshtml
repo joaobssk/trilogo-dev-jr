@@ -17,6 +17,7 @@
         <tr>
             <td>@post.Id</td>
             <td>@post.Title</td>
+            <td><a asp-controller="PostDetail" asp-action="Index" asp-route-postId="@post.Id">Detalhes</a></td>
         </tr>
     }
     </tbody>

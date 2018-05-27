@@ -1,0 +1,11 @@
+﻿@model mvc.Models.Post
+
+@{
+    ViewData["Title"] = "Detalhes do post";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>ID: @Model.Id</p><br/>
+<p>Title: @Model.Title</p><br/>
+<p>Body: @Model.Body</p>

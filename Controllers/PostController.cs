@@ -17,8 +17,6 @@ namespace mvc.Controllers
     [Route("api/Post")]
     public class PostController : Controller
     {
-        private Service service = Service.GetService();
-        private readonly List<Post> _posts = new List<Post>();
         private PostDAO dao;
 
         public PostController()
